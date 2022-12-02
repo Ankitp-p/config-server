@@ -1,4 +1,3 @@
-env: 'dev'
 payments:
   service:
     url: "http://localhost:8081/payments"
